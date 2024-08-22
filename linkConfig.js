@@ -71,6 +71,10 @@ const linkConfig = [
             {
                 showAs: "github",
                 link: "https://github.com/"
+            },
+            {
+                showAs: "youtube",
+                link: "https://www.youtube.com/"
             }
         ]
     }
