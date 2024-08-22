@@ -73,8 +73,8 @@ const linkConfig = [
                 link: "https://github.com/"
             },
             {
-                showAs: "youtube",
-                link: "https://www.youtube.com/"
+                showAs: "desmos",
+                link: "https://www.desmos.com/calculator"
             }
         ]
     }
