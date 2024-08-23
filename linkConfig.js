@@ -58,6 +58,10 @@ const linkConfig = [
             {
                 showAs: "work drive",
                 link: "https://drive.google.com/drive/u/2/home"
+            },
+            {
+                showAs: "google canvas",
+                link: "https://canvas.apps.chrome/"
             }
         ]
     },
