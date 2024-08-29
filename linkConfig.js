@@ -3,8 +3,8 @@ const linkConfig = [
         category: "school/",
         links: [
             {
-                showAs: "schoology",
-                link: "https://adams12.schoology.com"
+                showAs: "dashboard",
+                link: "https://myaccount.adams12.org/ui/dashboard"
             },
             {
                 showAs: "classroom",
@@ -25,43 +25,40 @@ const linkConfig = [
             {
                 showAs: "code.org",
                 link: "https://studio.code.org/home"
-            },
-            {
-                showAs: "infinite campus",
-                link: "https://ic.adams12.org/campus/adams12.jsp"
-            }
+            }            
         ]
     },
     {
         category: "google suite/",
         links: [
             {
-                showAs: "school mail",
+                showAs: "google mail",
                 link: "https://mail.google.com/mail/u/0/#inbox"
             },
             {
-                showAs: "school drive",
-                link: "https://drive.google.com/drive/u/0/home"
-            },
-            {
-                showAs: "personal mail",
-                link: "https://mail.google.com/mail/u/1/#inbox"
-            },
-            {
-                showAs: "personal drive",
-                link: "https://drive.google.com/drive/u/1/home"
-            },
-            {
-                showAs: "work mail",
-                link: "https://mail.google.com/mail/u/2/#inbox"
-            },
-            {
-                showAs: "work drive",
-                link: "https://drive.google.com/drive/u/2/home"
+                showAs: "google drive",
+                link: "https://drive.google.com/drive/"
             },
             {
                 showAs: "google canvas",
                 link: "https://canvas.apps.chrome/"
+            }
+        ]
+    },
+    {
+        category: "social media/",
+        links: [
+            {
+                showAs: "instagram",
+                link: "https://www.instagram.com/"
+            },
+            {
+                showAs: "youtube",
+                link: "https://www.youtube.com"
+            },
+            {
+                showAs: "reddit",
+                link: "https://www.reddit.com/"
             }
         ]
     },
@@ -75,6 +72,10 @@ const linkConfig = [
             {
                 showAs: "github",
                 link: "https://github.com/"
+            },
+            {
+                showAs: "homepage repository link",
+                link: "https://github.com/Technic-Dragon/Opals-New-Tab"
             },
             {
                 showAs: "desmos",
