@@ -32,15 +32,15 @@ const linkConfig = [
         category: "google suite/",
         links: [
             {
-                showAs: "google mail",
+                showAs: "mail",
                 link: "https://mail.google.com/mail/u/0/#inbox"
             },
             {
-                showAs: "google drive",
+                showAs: "drive",
                 link: "https://drive.google.com/drive/"
             },
             {
-                showAs: "google canvas",
+                showAs: "canvas",
                 link: "https://canvas.apps.chrome/"
             }
         ]
